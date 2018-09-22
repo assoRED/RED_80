@@ -23,8 +23,8 @@ Currently **work in progress.**
 
 | memory address | Usage |
 |       :---:    |  :---:  |
-|`0x0000` - `0x1999`|ROM |
-|`0x2000` - `0x3999`|EXT ROM| 
+|`0x0000` - `0x1FFF`|ROM |
+|`0x2000` - `0x3FFF`|EXT ROM| 
 |`0x8000` - `0xFFFF`|RAM |
 
 # ROM content
