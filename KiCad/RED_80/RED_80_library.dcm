@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 28C64
+D 8k x 8 CMOS EEPROM
+K EEPROM
+F https://www.electrobreizh.com/upload/files/mc28c64c.pdf
+$ENDCMP
+#
+$CMP AS6C62256
+D 32k x 8bit CMOS low power SRAM
+K SRAM RAM CMOS 32K 256k
+F https://www.mouser.fr/datasheet/2/12/AS6C62256%2023%20March%202016%20rev1.2-1288423.pdf
+$ENDCMP
+#
+#End Doc Library
